@@ -1,0 +1,51 @@
+using UnityEngine;
+using UnityEngine.InputSystem;
+
+public class PlayerController : MonoBehaviour
+{
+    CharacterController controller; // <- дл€ физики, если прыжки ху€рить будем
+
+    [SerializeField] public int value { get; set; }
+    [Space]
+    [SerializeField] private Vector3 playerVelocity;
+                     private bool groundedPlayer;
+    [SerializeField] private float playerSpeed = 2.0f;
+    [SerializeField] private float jumpHeight = 1.0f;
+    [SerializeField] private float gravityValue = -9.81f;
+    void Start()
+    {
+        value = 0;
+        controller = GetComponent<CharacterController>();
+    }
+
+    void Update()
+    {
+        groundedPlayer = controller.isGrounded;
+
+        if (groundedPlayer && playerVelocity.y < 0)
+        {
+            playerVelocity.y = 0f;
+        }
+        
+        if (groundedPlayer && Keyboard.current.spaceKey.IsPressed())
+        {
+            Jump();
+        }
+        playerVelocity.y += gravityValue * Time.deltaTime;
+
+        Move();
+
+    }
+
+    private void Move()
+    {
+        Vector3 move = new Vector3(Input.GetAxis("Horizontal"), 0, 1);
+        Vector3 finalMove = (move * playerSpeed) + (playerVelocity.y * Vector3.up);
+        controller.Move(finalMove * Time.deltaTime);
+    }
+
+    private void Jump()
+    {
+        playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravityValue);
+    }
+}

@@ -19,6 +19,12 @@ public class GateController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("True");
+        if (other.name == "Player")
+        {
+            PlayerController playerData = other.GetComponent<PlayerController>();
+            if (playerData == null) { return; }
+            playerData.value = playerData.value += gateValue;
+            Debug.Log(playerData.value);
+        }
     }
 }
