@@ -3,15 +3,18 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    CharacterController controller; // <- дл€ физики, если прыжки ху€рить будем
+    CharacterController controller;
 
     [SerializeField] public int value { get; set; }
+
     [Space]
+    
     [SerializeField] private Vector3 playerVelocity;
                      private bool groundedPlayer;
     [SerializeField] private float playerSpeed = 2.0f;
     [SerializeField] private float jumpHeight = 1.0f;
     [SerializeField] private float gravityValue = -9.81f;
+
     void Start()
     {
         value = 0;
