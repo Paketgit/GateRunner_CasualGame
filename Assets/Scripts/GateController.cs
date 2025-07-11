@@ -15,6 +15,9 @@ public class GateController : MonoBehaviour
     [SerializeField] public bool multiplication;
     [SerializeField] public bool division;
 
+    public delegate void ScoreChange(int newScore);
+    public static ScoreChange ScoreChangeEvent;
+
     void Start()
     {
         if (addition) textGateValue.text = "+" + gateValue.ToString();
@@ -43,7 +46,9 @@ public class GateController : MonoBehaviour
             else if (division) { playerData.value = playerData.value /= gateValue; }
 
             if (playerData.value < 0) { playerData.value = 0; }
-            
+
+            ScoreChangeEvent?.Invoke(playerData.value);
+
             Debug.Log(playerData.value);
         }
     }
