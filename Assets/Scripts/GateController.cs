@@ -23,7 +23,7 @@ public class GateController : MonoBehaviour
         if (addition) textGateValue.text = "+" + gateValue.ToString();
         else if (subtraction) textGateValue.text = "-" + gateValue.ToString();
         else if (multiplication) textGateValue.text = "*" + gateValue.ToString();
-        else if (division) textGateValue.text = "÷" + gateValue.ToString();
+        else if (division) textGateValue.text = "÷" + gateValue.ToString(); //"÷"
 
     }
 
@@ -47,9 +47,11 @@ public class GateController : MonoBehaviour
 
             if (playerData.value < 0) { playerData.value = 0; }
 
+            playerData.setSize();
+
             ScoreChangeEvent?.Invoke(playerData.value);
 
-            Debug.Log(playerData.value);
+            //Debug.Log(playerData.value);
         }
     }
 }

@@ -1,11 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
     CharacterController controller;
+    private float startScale; //= Vector3.one * 0.2f;
 
-    [SerializeField] public int value { get; set; }
+    [SerializeField] public int value;
 
     [Space]
     
@@ -15,8 +17,14 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float jumpHeight = 1.0f;
     [SerializeField] private float gravityValue = -9.81f;
 
+    [Space]
+
+    [SerializeField] private Transform transform;
+
     void Start()
     {
+        //transform = GetComponent<Transform>();
+        startScale = transform.localScale.x;
         value = 0;
         controller = GetComponent<CharacterController>();
     }
@@ -51,4 +59,15 @@ public class PlayerController : MonoBehaviour
     {
         playerVelocity.y = Mathf.Sqrt(jumpHeight * -2.0f * gravityValue);
     }
+
+    public void setSize()
+    {
+        float finalScale = startScale + startScale * ((float)value / 100.0f);
+        finalScale = Mathf.Clamp(finalScale, 0.01f, 0.4f);
+        transform.localScale = Vector3.one * finalScale;
+        Debug.Log(finalScale);
+        Debug.Log(transform.localScale);
+        Debug.Log("-----------");
+    }
+
 }
