@@ -5167,6 +5167,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1765289207}
     m_Modifications:
+    - target: {fileID: 2498770565864598953, guid: aec51cef0071da049ade49aa822314b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 529216302992178074, guid: fb69a7aa204d5554aa42bd78d33311c0, type: 2}
     - target: {fileID: 3400575557285999774, guid: aec51cef0071da049ade49aa822314b9, type: 3}
       propertyPath: m_Name
       value: Gate (1)
@@ -5264,8 +5268,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 11
   m_Type: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 2
+  m_Color: {r: 1, g: 0.8646155, b: 0.5801887, a: 1}
+  m_Intensity: 3.06
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -5274,7 +5278,7 @@ Light:
     m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
-    m_Strength: 1
+    m_Strength: 0.566
     m_Bias: 0.05
     m_NormalBias: 0.4
     m_NearPlane: 0.2
@@ -5303,12 +5307,12 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_RenderingLayerMask: 1
+  m_RenderingLayerMask: 4294967295
   m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
-  m_ColorTemperature: 5000
+  m_ColorTemperature: 7627
   m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
@@ -5328,7 +5332,7 @@ Transform:
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 4.29, z: -3.25}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5350,7 +5354,7 @@ MonoBehaviour:
   m_UsePipelineSettings: 1
   m_AdditionalLightsShadowResolutionTier: 2
   m_LightLayerMask: 1
-  m_RenderingLayers: 1
+  m_RenderingLayers: 4294967295
   m_CustomShadowLayers: 0
   m_ShadowLayerMask: 1
   m_ShadowRenderingLayers: 1
@@ -6401,6 +6405,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1765289207}
     m_Modifications:
+    - target: {fileID: 2498770565864598953, guid: aec51cef0071da049ade49aa822314b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 529216302992178074, guid: fb69a7aa204d5554aa42bd78d33311c0, type: 2}
     - target: {fileID: 3400575557285999774, guid: aec51cef0071da049ade49aa822314b9, type: 3}
       propertyPath: m_Name
       value: Gate (3)
@@ -6561,6 +6569,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1765289207}
     m_Modifications:
+    - target: {fileID: 2498770565864598953, guid: aec51cef0071da049ade49aa822314b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 529216302992178074, guid: fb69a7aa204d5554aa42bd78d33311c0, type: 2}
     - target: {fileID: 3400575557285999774, guid: aec51cef0071da049ade49aa822314b9, type: 3}
       propertyPath: m_Name
       value: Gate (2)
@@ -6982,6 +6994,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1765289207}
     m_Modifications:
+    - target: {fileID: 2498770565864598953, guid: aec51cef0071da049ade49aa822314b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 529216302992178074, guid: fb69a7aa204d5554aa42bd78d33311c0, type: 2}
     - target: {fileID: 3400575557285999774, guid: aec51cef0071da049ade49aa822314b9, type: 3}
       propertyPath: m_Name
       value: Gate (4)
@@ -7410,6 +7426,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1765289207}
     m_Modifications:
+    - target: {fileID: 2498770565864598953, guid: aec51cef0071da049ade49aa822314b9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 529216302992178074, guid: fb69a7aa204d5554aa42bd78d33311c0, type: 2}
     - target: {fileID: 3400575557285999774, guid: aec51cef0071da049ade49aa822314b9, type: 3}
       propertyPath: m_Name
       value: Gate
