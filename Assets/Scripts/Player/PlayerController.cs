@@ -19,12 +19,11 @@ public class PlayerController : MonoBehaviour
 
     [Space]
 
-    [SerializeField] private Transform transform;
+    [SerializeField] private Transform animal;
 
     void Start()
     {
-        //transform = GetComponent<Transform>();
-        startScale = transform.localScale.x;
+        startScale = animal.localScale.x;
         value = 0;
         controller = GetComponent<CharacterController>();
     }
@@ -63,8 +62,8 @@ public class PlayerController : MonoBehaviour
     public void setSize()
     {
         float finalScale = startScale + startScale * ((float)value / 100.0f);
-        finalScale = Mathf.Clamp(finalScale, 0.01f, 0.4f);
-        transform.localScale = Vector3.one * finalScale;
+        //finalScale = Mathf.Clamp(finalScale, 0.01f, 0.4f);
+        animal.localScale = Vector3.one * finalScale;
         Debug.Log(finalScale);
         Debug.Log(transform.localScale);
         Debug.Log("-----------");
