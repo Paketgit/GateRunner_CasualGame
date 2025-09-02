@@ -228,10 +228,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -283,10 +279,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -395,10 +387,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -455,10 +443,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -504,10 +488,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -564,10 +544,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (3)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -581,10 +557,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -637,10 +609,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (17)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -674,17 +642,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -1085,10 +1045,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sawblade (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 3044799357886607768, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4424326145804476218, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
       propertyPath: m_LocalScale.x
       value: 2
@@ -1145,10 +1101,6 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 08648d34825db7a478665172cbed4eaf, type: 2}
-    - target: {fileID: 6884474286417386214, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1165,17 +1117,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -1242,10 +1186,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -1298,10 +1238,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (15)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1330,17 +1266,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -6245,10 +6173,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -6304,10 +6228,6 @@ PrefabInstance:
     - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_Name
       value: wall_2 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6671,17 +6591,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -6748,10 +6660,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -7414356829621769758, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5891280182767767083, guid: e4aa071478ef72949aeab14643843760, type: 3}
       propertyPath: m_LocalScale.x
       value: 3.6629996
@@ -6807,10 +6715,6 @@ PrefabInstance:
     - target: {fileID: 6523983787739288721, guid: e4aa071478ef72949aeab14643843760, type: 3}
       propertyPath: m_Name
       value: rock_5 (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6523983787739288721, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6919,17 +6823,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -6996,17 +6892,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (20)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -7194,17 +7082,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -7403,10 +7283,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -7459,10 +7335,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (6)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7507,17 +7379,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -7708,10 +7572,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -7768,10 +7628,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (13)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7785,10 +7641,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.3999997
@@ -7840,10 +7692,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7900,10 +7748,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5999999
@@ -7960,10 +7804,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7987,17 +7827,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -8064,10 +7896,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -8120,10 +7948,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (10)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8137,17 +7961,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (18)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -8310,17 +8126,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -8392,17 +8200,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -8592,10 +8392,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -8647,10 +8443,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8917,10 +8709,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -8973,10 +8761,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9000,17 +8784,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -9087,17 +8863,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -9164,17 +8932,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -9368,10 +9128,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -9424,10 +9180,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (9)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9441,10 +9193,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3456623471014615015, guid: 3559e2f35d42e674fba563df1d7b4f5a, type: 3}
-      propertyPath: far clip plane
-      value: 60
-      objectReference: {fileID: 0}
     - target: {fileID: 4157318685487362881, guid: 3559e2f35d42e674fba563df1d7b4f5a, type: 3}
       propertyPath: m_Name
       value: Player
@@ -9557,8 +9305,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.x
       value: 22.029
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2320718085419096086, guid: 3559e2f35d42e674fba563df1d7b4f5a, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
@@ -9798,10 +9545,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sawblade
       objectReference: {fileID: 0}
-    - target: {fileID: 3044799357886607768, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4424326145804476218, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
       propertyPath: m_LocalScale.x
       value: 2
@@ -9858,10 +9601,6 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 08648d34825db7a478665172cbed4eaf, type: 2}
-    - target: {fileID: 6884474286417386214, guid: f1743b005e7bf2445ac2f4cd4c2f6279, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9991,10 +9730,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.2
@@ -10050,10 +9785,6 @@ PrefabInstance:
     - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_Name
       value: wall_2
-      objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10149,17 +9880,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -10345,10 +10068,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -10405,10 +10124,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (14)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10422,10 +10137,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -10477,10 +10188,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10638,17 +10345,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -10821,10 +10520,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -10881,10 +10576,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (5)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10903,17 +10594,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -11000,10 +10683,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -11060,10 +10739,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11082,17 +10757,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -11164,17 +10831,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (12)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -11241,17 +10900,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -11318,10 +10969,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -7414356829621769758, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5891280182767767083, guid: e4aa071478ef72949aeab14643843760, type: 3}
       propertyPath: m_LocalScale.x
       value: 3.6629994
@@ -11378,10 +11025,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_5 (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 6523983787739288721, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11395,17 +11038,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -11477,17 +11112,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (14)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -11684,17 +11311,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (19)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -11766,10 +11385,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5
@@ -11822,10 +11437,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (7)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11839,10 +11450,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -11899,10 +11506,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11916,17 +11519,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -11993,10 +11588,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -12049,10 +11640,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (13)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12076,17 +11663,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (17)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -12348,10 +11927,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -12408,10 +11983,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12430,17 +12001,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -12672,17 +12235,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -12822,10 +12377,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -7414356829621769758, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5891280182767767083, guid: e4aa071478ef72949aeab14643843760, type: 3}
       propertyPath: m_LocalScale.x
       value: 3
@@ -12882,10 +12433,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: rock_5
       objectReference: {fileID: 0}
-    - target: {fileID: 6523983787739288721, guid: e4aa071478ef72949aeab14643843760, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12904,17 +12451,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -13016,10 +12555,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -13072,10 +12607,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (16)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13097,7 +12628,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 127
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1564094734
 Transform:
@@ -13129,7 +12660,7 @@ TerrainCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_ProvidesContacts: 1
+  m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
   m_TerrainData: {fileID: 15600000, guid: 5157e65e8ac36ca4882bd2300fe5da95, type: 2}
@@ -13144,11 +12675,11 @@ Terrain:
   m_Enabled: 1
   serializedVersion: 6
   m_TerrainData: {fileID: 15600000, guid: 5157e65e8ac36ca4882bd2300fe5da95, type: 2}
-  m_TreeDistance: 100
-  m_TreeBillboardDistance: 2000
+  m_TreeDistance: 3253
+  m_TreeBillboardDistance: 50
   m_TreeCrossFadeLength: 80
   m_TreeMaximumFullLODCount: 0
-  m_DetailObjectDistance: 32
+  m_DetailObjectDistance: 155
   m_DetailObjectDensity: 1
   m_HeightmapPixelError: 5
   m_SplatMapDistance: 1000
@@ -13182,10 +12713,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -13237,10 +12764,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13352,10 +12875,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6
@@ -13411,10 +12930,6 @@ PrefabInstance:
     - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_Name
       value: wall_2 (15)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13528,10 +13043,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -13583,10 +13094,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13703,7 +13210,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 2147483647
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &1649414041
 Transform:
@@ -13883,10 +13390,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5999998
@@ -13942,10 +13445,6 @@ PrefabInstance:
     - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_Name
       value: wall_2 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14080,10 +13579,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -14136,10 +13631,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (12)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14153,17 +13644,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (21)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -19363,10 +18846,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -19423,10 +18902,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (11)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19455,10 +18930,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -19511,10 +18982,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (18)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19543,17 +19010,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (7)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -19630,17 +19089,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -19902,10 +19353,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -19962,10 +19409,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wall_2 (9)
       objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19979,10 +19422,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -20035,10 +19474,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: wooden_fence_3 (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20052,10 +19487,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -4683612517461138385, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7275750913230666515, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.5000001
@@ -20107,10 +19538,6 @@ PrefabInstance:
     - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
       propertyPath: m_Name
       value: wooden_fence_3 (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8048909195378303401, guid: d6faba62d6e8486498d49479a91178c1, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20268,17 +19695,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: 357337867182164156, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_Name
       value: wooden_fence_2 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568460190738301765, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2202148717681449471, guid: e8bc6d4d37c064545a9a92c3c320d6df, type: 3}
       propertyPath: m_LocalScale.x
@@ -20488,17 +19907,9 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -697555866275436479, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_Name
       value: wooden_fence_1 (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 7426204076938402582, guid: 89534441a76efee4a958df969b783f9a, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 7801639660568494508, guid: 89534441a76efee4a958df969b783f9a, type: 3}
       propertyPath: m_LocalScale.x
@@ -20752,10 +20163,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1649414041}
     m_Modifications:
-    - target: {fileID: -1637019676118491037, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_Convex
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 2708341567497247709, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.6000001
@@ -20811,10 +20218,6 @@ PrefabInstance:
     - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
       propertyPath: m_Name
       value: wall_2 (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 3377179526968197479, guid: d840c77b67da55a489191575f733ea35, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
